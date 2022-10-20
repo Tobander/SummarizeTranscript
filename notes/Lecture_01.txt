@@ -1,0 +1,60 @@
+TOPICS:
+- Machine learning
+- Algorithms
+- Data
+- Use cases for machine learning
+- Pitch videos -The potential for machine learning to improve our everyday lives
+- The potential for machine learning to go sideways
+- The importance of giving everybody at least a basic understanding of machine learning
+- How machine learning algorithms work
+- The example of the Compass algorithm -The success rate of machine learning models
+- How to train a machine learning model
+- The importance of defining what success looks like before training a model
+- How to make decisions with a machine learning model - 1. The difficulty of using pre-trained models for machine learning. -The use of machine learning in various fields
+- The potential for machine learning models to discriminate against certain groups of people
+- How to avoid discrimination in machine learning models -Cautions to take when using machine learning algorithms
+- The different use cases for machine learning algorithms
+- The importance of data visualization
+- The basics of the Python programming language
+- The basics of the Matplotlib library -importing numpy and pipeline
+- creating test data
+- Plotting a line
+- Initializing a figure
+- Showing a plot -loading data from a CSV file
+- Plotting data using the matplotlib library - Reading in data from a file
+- Plotting data using matplotlib
+- Using figure and axis objects in matplotlib
+- Backends in matplotlib - -Styling Matplotlib lines
+- Using markers in Matplotlib
+- Controlling the appearance of markers -How to create a curve using fake data
+- How to create a scatter plot using the x and y values
+- How to change the size of the markers
+- How to change the color of the markers
+- How to control the color of each point individually
+- How to create a lot of data points
+- How to use the alpha argument
+- How to remove the markers outlines
+- How to add labels, arrows, equations, and text to a plot -text formatting
+- Annotation
+- Equations
+- Ticks - Plot customization
+- Ticks and tick labels
+- Locators and formators
+- Grids -The basics of machine learning
+- How to plot a line
+- How to do a scatter plot
+- Customization of plots
+- The exercise sheet
+- The bonus exercise
+- The data set for the bonus exercise
+
+SUMMARY:
+In this lecture, Tobias Laemmle introduces the topic of machine learning. He begins by discussing some of the basics, such as algorithms and data. He then goes on to talk about some of the more practical aspects, such as use cases for machine learning and pitch videos. Throughout the lecture, Tobias provides several examples to illustrate his points. Machine learning has the potential to improve our everyday lives in a number of ways, but it also has the potential to go sideways. It is therefore important to give everybody at least a basic understanding of machine learning. Machine learning models can be very successful, but it is important to check the quality of the predictions before blindly trusting the results. Models can be trained to make decisions, but it is up to humans to make the important decisions and set the parameters. In order to make good predictions, humans need to be involved in the decision-making process. It is difficult to find pre-trained models that are specific to the company's needs. Machine learning is a field of artificial intelligence that deals with the construction and study of algorithms that can learn from data. Machine learning is widely used in many different fields, such as predicting consumer behavior, detecting fraudulent activity, and analyzing medical images. Tobias Laemmle begins by cautioning that machine learning algorithms should be treated with extreme caution, as they can potentially have a large impact on people's lives. He gives the example of a criminal identification algorithm, which could potentially lead to innocent people being wrongly imprisoned. He then goes on to discuss the different use cases for machine learning algorithms, such as identifying spam emails. He emphasizes the importance of data visualization, as it can help to give a first impression of the data set and make it easier to comprehend. He then introduces the basics of the Python programming language and the Matplotlib library. 
+
+In the lecture, the speaker first imports the numpy and pipeline libraries. He then creates some test data using the numpy library. Next, he plots a line using the test data. Finally, he initializes a figure and shows the plot. The lecture begins by discussing how to create a scatter plot using the matplotlib library. The lecturer then shows how to load data from a CSV file and plot it using the matplotlib library. The lecturer finishes by showing how to create a curve for the data using the matplotlib library. To read in data from a file using matplotlib, you can use the "loadtxt" function. This function takes in the path to the file, the delimiter, and an option to unpack the data into separate arrays.
+To plot data using matplotlib, you can use the "plot" function. This function takes in the x and y values to be plotted.
+
+Figure and axis objects are used in matplotlib to hold the data and the plot, respectively. The figure object is a rectangle on which the plot is constructed, and the axis object contains the x and y axes.
+Backends are used in matplotlib to render the plot. There are different backends for different purposes, such as creating a file or displaying the plot on the screen. - In the first part of the lecture, Tobias Laemmle explains how to style Matplotlib lines. He shows how to control the line width, line style, and markers. He also demonstrates how to create multiple lines on a single plot. In the machine-learning lecture, Tobias Laemmle explains how to create a curve using fake data. He also explains how to create a scatter plot using the x and y values. Laemmle demonstrates how to change the size of the markers and how to change the color of the markers. He also explains how to control the color of each point individually. Laemmle shows how to create a lot of data points and how to use the alpha argument. He also explains how to remove the markers outlines. Finally, Laemmle shows how to add labels, arrows, equations, and text to a plot. The 'text' method in matplotlib allows for precise placement of text anywhere in a plot, using x- and y-coordinates. The 'horizontal alignment' and 'vertical alignment' arguments can be used to control where the text is placed relative to the x- and y-coordinates. The 'baseline' argument can be used to control the position of the bottom of the text relative to the y-coordinate. The 'bbox' argument can be used to control the appearance of the text box. The 'use text' and 'r strings' arguments can be used to control the formatting of equations in a plot. 
+
+The 'set_xlim' and 'set_ylim' methods can be used to control the limits of the x- and y-axes. The 'tick_params' method can be used to control the appearance of ticks on the x- and y-axes. Plot customization: Plot lib allows for customization of plots in a variety of ways, including control over ticks and tick labels, locators and formators, and grids. Ticks and tick labels: Ticks and tick labels can be controlled using the tick parents method. This allows for placement of ticks inside or outside the plot frame, as well as control over the length and color of ticks. Locators and formators: Locators are functions that generate locations for ticks according to specified rules. Formators are functions that transform tick labels to be an integer, a fixed decimal, or other desired format. Grids: Grids are tick lines that span the entire plot. They can be controlled using the grid command, which takes all the same arguments as the plot command. In the first lecture, Tobias Laemmle introduces the basics of machine learning and what it is capable of. He also covers some of the dangers of machine learning, such as overfitting. Next, he shows how to plot a line and do a scatter plot. He also covers customization of plots, such as adding a grid, labels, and a title. Finally, he gives an overview of the exercise sheet and the bonus exercise.

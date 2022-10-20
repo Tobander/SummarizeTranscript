@@ -1,0 +1,13 @@
+The following is an unstructured video transcript of a machine-learning lecture of Tobias Laemmle. Write a detailed summary about the given topics.
+
+TRANSCRIPT:
+
+<<TRANSCRIPT>>
+
+
+GIVEN TOPICS:
+
+<<TOPICS>>
+
+
+DETAILED SUMMARY:

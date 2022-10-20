@@ -1,0 +1,24 @@
+The following is an unstructured video transcript of a machine-learning lecture of Tobias Laemmle. Write a detailed summary about the given topics.
+
+TRANSCRIPT:
+
+more exercises for for 10 minutes just to. To do. How many have been. We had just a 50 moments. But if you have a question before just. I actually do have one. Yeah sure. Sorry I wasn't really able to plot to the. Graph with a lot of a lot of points. Yeah, when we did after the one that has a lot of color and goes from dark blue to yellow. Okay. Marker's transparent probably. So we still. The one after. And then we did that one. It just came out like very white. Picture so. Are you trying to replicate it and it came out as a white picture. Okay, so let's let's try that. Yeah. Just a moment. Yeah. Yeah. Yeah. Yeah. Maybe it doesn't recognize this. It seems like the problem was the way I typed. The number of of markers I want. So if you try just a really big number like 50,000. It should work. Instead of non equal to one. Yeah. Okay, just put the big number. Okay. I think that's right. Yeah. Yeah, that should do it. Okay. And it works. Any other questions. Okay. Okay. Okay. Okay, perfect. So, yeah, just try a couple of more of the exercises for. Let's say. Yeah, just try one. And then we'll meet. We'll meet back at five to. It is 425. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Unfortunately, it's already 425. So we are almost finished with our first lecture. I hope you had, you had some fun with it. We learned how to the basics of machine learning and what is. What are the, what machine learning is capable of, but also some of the. Some of the dangers you come across, then we took a look at map, or lip and how to plot a line, how to do a scatter plot, and a lot of, of styling of, of customization. And. And a lot of, it's your, a lot of examples and the exercises sheet. So I would suggest to do at least a couple of them and really just shoot me a quick note. If you have trouble with any of these. And I would also suggest just take a look at the bonus exercise. It's, it's not quite easy, but it's, it's more of a, of a real life example. I quickly show you where, where I got the data. You can download the sample data from, from blackboard. Just like quickly share my screen. So you can see where the data is from. So that's a, that's a GitHub project, which is called Palmer penguins or the data set is called Palmer penguins. And basically, it's a data set with three different species of penguins. And they are different in their bill length and their flipper length. And what you should try to do in this exercise is try to replicate exactly this graph because we've handled everything. You need to know about this. You see we have different markers. We have circles. We have triangles. They have different colors for each of those groups. And you have a grid and you have access, a Y axis label. You have the X axis label. You have a title. So there's everything in we just call it today. But, as I said, it's not, it's not easy. Yeah. So give it a try. And if you have any problems with that, just give me a quick note. And I'll try to help you with that. So. We are nearly finished. Have you, have you any questions for me or do you have anything unclear? Or did you have problems downloading any of the stuff? Did you like it? Okay, thanks. Good. I think we don't have lectures next week, right? I think next week, our holidays. Is that correct? Yes, we don't have. Okay, okay. Yeah. I have two weeks time to try out all the mat lots of lip stuff. If you, if you like to give the exercise a try. Other than that, I will post the link to all the stuff we did today. And also I will post the link to the solutions of every exercise. And maybe in a couple of days, the solution to the bonus exercise. And also, if it's already the, the recording to the whole session. And if there's anything else. Thanks for attending. And I have a great holiday and see you in two weeks when we are doing. Supervised learning introduction to supervised learning and. Big chapter, which is called pre processing, which always takes a lot of time in every machine learning project. And then we will come across. Okay. Thank you very much. And every day, thanks. YouTube. Thank you. Thank you. Bye. Bye. Bye. Bye. Bye.
+
+
+GIVEN TOPICS:
+
+1. Introduction to machine learning
+2. What machine learning is capable of
+3. Some of the dangers of machine learning
+4. Basics of plotting with matplotlib
+5. Styling and customization of plots
+6. Introduction to supervised learning
+7. Pre-processing in machine learning projects
+
+
+DETAILED SUMMARY:
+
+
+==========
+
+1. Introduction to machine learning: In this lecture, Tobias Laemmle introduces the basics of machine learning. He explains what machine learning is and what it is capable of. He also discusses some of the dangers of machine learning.
